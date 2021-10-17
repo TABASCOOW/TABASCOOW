@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TABASCOOW,
-I'm learning programming for fun and have intermediate knowledge of Ruby and Python with a little bit of Java.
-My main project at the moment is Amity, a discord bot that utilizes cryptocurrency. 
-  This is still under heavy development.
-  
+- 👋 Hi, I’m TABASCO,
+I'm a Python developer that mainly focuses on web3-related projects. At the moment, I'm developing a discord bot for sending and recieving ERC20 currency. (Amity DeFi, currently in Beta, planned to go open-source soon)
 
+I know: Python, Ruby and JavaScript. 
