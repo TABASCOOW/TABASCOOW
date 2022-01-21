@@ -14,7 +14,7 @@ I'm a self-taught developer that is currently specializing in web3py; I'm also t
 ![](https://img.shields.io/badge/Tools-SqLite-informational?style=flat&logo=mysql&logoColor=white&color=9c00fe)
 
 ## ![](https://i.imgur.com/GJ8gayS.png) Main Project
-As a response to the different tip-bots scattered throughout communities, all with different intricacies and supported tokens, Amity DeFi was made to be an all-in-one tip bot that works with every token on Harmony.
+As a response to the different tip-bots scattered throughout communities, all with different intricacies and supported tokens, Amity DeFi was made to be an all-in-one tip bot that works with every token on every EVM compatible network.
 
 Amity DeFi has been in development since March of 2021 and is currently in its final Beta version (v5).
 Through the bot, you own an entire wallet, compatible with not only Harmony but every Ethereum-compatible network.
