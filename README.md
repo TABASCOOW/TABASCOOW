@@ -9,6 +9,7 @@ I'm a self-taught developer that is currently specializing in web3py. I am the s
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=web3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SqLite-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
