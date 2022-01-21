@@ -10,7 +10,7 @@ I'm a self-taught developer that is currently specializing in web3py. I am the s
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=web3&logoColor=white&color=2bbc8a)
 
-## ![](https://i.imgur.com/UzEXIbc.png) Main Project
+## ![](https://i.imgur.com/GJ8gayS.png) Main Project
 As a response to the different tip-bots scattered throughout communities, all with different intricacies and supported tokens, Amity DeFi was made to be an all-in-one tip bot that works with every token on Harmony.
 
 Amity DeFi has been in development since March of 2021 and is currently in its final Beta version (v5).
