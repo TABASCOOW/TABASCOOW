@@ -5,13 +5,13 @@ I'm a self-taught developer that is currently specializing in web3py. I am the s
 ## 👨‍💻 Skills 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00fefd)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=web3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SqLite-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00fefd)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=00fefd)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=00fefd)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=00fefd)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00fefd)
+![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=web3&logoColor=white&color=00fefd)
+![](https://img.shields.io/badge/Tools-SqLite-informational?style=flat&logo=mysql&logoColor=white&color=00fefd)
 
 ## ![](https://i.imgur.com/GJ8gayS.png) Main Project
 As a response to the different tip-bots scattered throughout communities, all with different intricacies and supported tokens, Amity DeFi was made to be an all-in-one tip bot that works with every token on Harmony.
