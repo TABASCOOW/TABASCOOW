@@ -28,3 +28,5 @@ You can send, receive, giveaway(rain), and burn any token on the network via. co
 <a href="https://github.com/TABASCOatw/TABASCOatw">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TABASCOatw&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+**Note**: My main repositories are private to prevent malicious actors from utilizing them; if you're interested in seeing the main few (mostly scam protection projects done alongside the Harmony Pops team), let me know.
