@@ -10,7 +10,7 @@ I'm a self-taught developer that is currently specializing in web3py; I'm also t
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=06dbfd)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9c00fe)
-![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=web3&logoColor=white&color=9c00fe)
+![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=ethereum&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/Tools-Biometrics-informational?style=flat&logo=&logoColor=white&color=9c00fe)
 
 ## ![](https://i.imgur.com/GJ8gayS.png) Main Project
