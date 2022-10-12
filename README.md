@@ -11,7 +11,7 @@ I'm a self-taught developer that is currently specializing in web3py; I'm also t
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=web3&logoColor=white&color=9c00fe)
-![](https://img.shields.io/badge/Tools-Biometrics-informational?style=flat&logo=mysql&logoColor=white&color=9c00fe)
+![](https://img.shields.io/badge/Tools-Biometrics-informational?style=flat&logo=windows11&logoColor=white&color=9c00fe)
 
 ## ![](https://i.imgur.com/GJ8gayS.png) Main Project
 As a response to the different tip-bots scattered throughout communities, all with different intricacies and supported tokens, Amity DeFi was made to be an all-in-one tip bot that works with every token on every EVM compatible network.
