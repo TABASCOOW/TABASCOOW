@@ -1,4 +1,4 @@
-![](https://i.imgur.com/rPxIzsa.png)
+![](https://i.imgur.com/JmOwOwc.png)
 ## 👋 Hi, I’m TABASCO
 I'm a self-taught developer that is currently specializing in web3py; I'm also the solo developer of Amity DeFi, a popular multi-chain discord bot that works to provide an in-app wallet and transactional method for every discord user. On top of that, I manage developer relations for the Harmony, Fuse, and Solana branch of Chainstack, the most robust all-in-one web3 infrastructure provider within the blockchain ecosystem.
 
