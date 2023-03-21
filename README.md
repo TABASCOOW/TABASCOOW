@@ -1,6 +1,9 @@
 ![](https://i.imgur.com/JmOwOwc.png)
 ## 👋 Hi, I’m TABASCO
-I'm a self-taught developer that is currently specializing in web3py; I'm also the solo developer of Amity DeFi, a popular multi-chain discord bot that works to provide an in-app wallet and transactional method for every discord user. On top of that, I manage developer relations for the Harmony, Fuse, and Solana branch of Chainstack, the most robust all-in-one web3 infrastructure provider within the blockchain ecosystem.
+Developer Relations Team Lead at Chainstack; leading a team dedicated to supporting and empowering developers in utilizing Chainstack's high-quality multi-chain node infrastructure. https://chainstack.com
+
+Solo developer of Amity DeFi since March 2021; bridging EVM chains directly with online communities, allowing for an entirely new level of community interaction facilitated directly through the blockchain. https://www.amitydefi.one
+
 
 ## 👨‍💻 Skills 
 
@@ -13,15 +16,6 @@ I'm a self-taught developer that is currently specializing in web3py; I'm also t
 ![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=ethereum&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/Tools-Biometrics-informational?style=flat&logo=&logoColor=white&color=9c00fe)
 
-## ![](https://i.imgur.com/GJ8gayS.png) Main Project
-As a response to the different tip-bots scattered throughout communities, all with different intricacies and supported tokens, Amity DeFi was made to be an all-in-one tip bot that works with every token on every EVM compatible network.
-
-Amity DeFi has been in development since March of 2021 and is currently in its final Beta version (v5).
-Through the bot, you own an entire wallet, compatible with not only Harmony but every Ethereum-compatible network.
-
-You can send, receive, giveaway(rain), and burn any token on the network via. contract address. Additionally, you can view important statistics like contract information, transaction information, addresses, and prices of different coins (via. Coingecko)
-
-– In essence, Amity DeFi is like Metamask, but built ground-up to serve various discord communities.
 
 ## &#x1f4c8; GitHub Stats
 
