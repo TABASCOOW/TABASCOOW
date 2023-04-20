@@ -24,4 +24,4 @@ Some of my recent projects include:
 ![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=ethereum&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/Tools-Biometrics-informational?style=flat&logo=&logoColor=white&color=9c00fe)
 
-**Note**: I don't code in public; for viewing access to the source code of my primary projects, feel free to reach out.
+**Note**: The majority of my code is not public; for viewing access to the source code of my primary projects, feel free to reach out.
