@@ -1,8 +1,14 @@
 ![](https://i.imgur.com/JmOwOwc.png)
 ## 👋 Hi, I’m TABASCO
-Developer Relations Team Lead at Chainstack; leading a team dedicated to supporting and empowering developers in utilizing Chainstack's high-quality multi-chain node infrastructure. https://chainstack.com
+As the Developer Relations Team Lead at Chainstack, I guide a passionate team dedicated to supporting and empowering developers in leveraging our high-quality Web3 infrastructure. Together, we're helping developers innovate without the constraints of low-quality infrastructure. Learn more about Chainstack here: https://chainstack.com
 
-Solo developer of Amity DeFi since March 2021; bridging EVM chains directly with online communities, allowing for an entirely new level of community interaction facilitated directly through the blockchain. https://www.amitydefi.one
+I'm also the solo developer behind Amity DeFi, an innovative project bridging EVM chains with Discord communities, creating a new dimension of community interaction powered by blockchain. Discover Amity DeFi at: https://www.amitydefi.one
+
+Some of my recent projects include:
+
+• Developing a novel methodology to optimize and measure Developer Relations ROI for SaaS/PaaS, successfully implemented within Chainstack.
+• Pioneering a patent-pending, directly-biometric Web3 authentication and identification infrastructure, enabling seamless biometric interaction with blockchains through real-world terminals; intertwining physical and on-chain identity.
+• Creating an innovative approach to quantify developer activity within a specific protocol, done through the large-scale indexing and qualifying of public code repositories.
 
 
 ## 👨‍💻 Skills 
@@ -16,11 +22,4 @@ Solo developer of Amity DeFi since March 2021; bridging EVM chains directly with
 ![](https://img.shields.io/badge/Tools-Web3-informational?style=flat&logo=ethereum&logoColor=white&color=9c00fe)
 ![](https://img.shields.io/badge/Tools-Biometrics-informational?style=flat&logo=&logoColor=white&color=9c00fe)
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/TABASCOatw/TABASCOatw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TABASCOatw&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-**Note**: My main repositories are private to prevent malicious actors from utilizing them; if you're interested in seeing the main few (mostly scam protection projects done alongside the Harmony Pops team), let me know.
+**Note**: I don't code in public; for viewing access to the source code of my primary projects, feel free to reach out.
