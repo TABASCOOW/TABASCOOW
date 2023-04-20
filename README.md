@@ -7,7 +7,9 @@ I'm also the solo developer behind Amity DeFi, an innovative project bridging EV
 Some of my recent projects include:
 
 • Developing a novel methodology to optimize and measure Developer Relations ROI for SaaS/PaaS, successfully implemented within Chainstack.
+
 • Pioneering a patent-pending, directly-biometric Web3 authentication and identification infrastructure, enabling seamless biometric interaction with blockchains through real-world terminals; intertwining physical and on-chain identity.
+
 • Creating an innovative approach to quantify developer activity within a specific protocol, done through the large-scale indexing and qualifying of public code repositories.
 
 
