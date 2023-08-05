@@ -12,11 +12,11 @@ I'm the solo developer behind [Amity DeFi](https://www.amitydefi.one), a project
 
 - **Developer Relations ROI model for SaaS/PaaS:** Developed a novel methodology to optimize and measure ROI, successfully implemented within Chainstack.
   
-- **Directly-biometric Web3 Authentication:** Pioneered a patent-pending infrastructure, enabling seamless biometric interaction with blockchains.
+- **Directly-biometric Web3 Authentication Patent:** Pioneered a patent-pending infrastructure, enabling seamless biometric interaction with blockchains.
 
-- **Developer Activity Quantification:** Created an innovative approach to quantify developer activity within a specific protocol through large-scale indexing of public code repositories.
+- **Developer Activity Quantification Methodology:** Created an innovative approach to [quantify developer activity](https://developers.ethanfrancis.app/) within a specific protocol through large-scale indexing of public code repositories.
 
-- **ChatGPT Plugin:** Built a verified plugin that utilizes JSON-RPC requests, the Covalent API, and the Chainstack platform API for interacting with blockchain data.
+- **Chainstack ChatGPT Plugin:** Built a verified plugin that utilizes JSON-RPC requests, the Covalent API, and the Chainstack platform API for interacting with blockchain data.
 
 <br/>
 
