@@ -1,6 +1,6 @@
 ![TABASCO Banner](https://i.imgur.com/JmOwOwc.png)
 
-<h1 align="center">👋 Hi, I’m TABASCO, also known as <a href="https://www.linkedin.com/in/ethan-f">Ethan</a></h1>
+<h1 align="center">👋 Hi, I’m TABASCO (<a href="https://www.linkedin.com/in/ethan-f">Ethan</a>)</h1>
 
 I'm the **Developer Relations Team Lead** at [Chainstack](https://chainstack.com), guiding a dedicated team to empower developers in leveraging high-quality Web3 infrastructure.
 
