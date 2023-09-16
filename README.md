@@ -1,10 +1,12 @@
-![TABASCO Banner](https://i.imgur.com/JmOwOwc.png)
+![TABASCO Banner](https://i.imgur.com/sdg4eZB.png)
 
 <h1 align="center">👋 Hi, I’m TABASCO (<a href="https://www.linkedin.com/in/ethan-f">Ethan</a>)</h1>
 
-I'm the **Developer Relations Team Lead** at [Chainstack](https://chainstack.com), guiding a dedicated team to empower developers in leveraging high-quality Web3 infrastructure.
+I'm do **Developer Relations** at [Particle Network](https://particle.network), we're pushing the boundaries of Web3 through user-friendly, scalable, and modular wallet solutions. Developers can integrate Particle's Wallet-as-a-Service technology to enable truly accessible onboarding and utilization of their DApp.
 
-I'm the solo developer behind [Amity DeFi](https://www.amitydefi.one), a project bridging EVM chains with Discord communities.
+Previously, I led Developer Relations at [Chainstack](https://chainstack.com).
+
+I'm also the solo developer behind [Amity DeFi](https://www.amitydefi.one), a project bridging EVM chains with Discord communities.
 
 <br/>
 
