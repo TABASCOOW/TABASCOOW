@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I’m TABASCO (<a href="https://www.linkedin.com/in/ethan-f">Ethan</a>)</h1>
 
-I'm do **Developer Relations** at [Particle Network](https://particle.network), we're pushing the boundaries of Web3 through user-friendly, scalable, and modular wallet solutions. Developers can integrate Particle's Wallet-as-a-Service technology to enable truly accessible onboarding and utilization of their DApp.
+I do **Developer Relations** at [Particle Network](https://particle.network), we're pushing the boundaries of Web3 through user-friendly, scalable, and modular wallet solutions. Developers can integrate Particle's Wallet-as-a-Service technology to enable truly accessible onboarding and utilization of their DApp.
 
 Previously, I led Developer Relations at [Chainstack](https://chainstack.com).
 
